@@ -1,7 +1,6 @@
 getwd()
 setwd("C:/Users/Francisco/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Doctorado - COLSON/Semestre 2/EACS/Prácticas R/Resultados preliminares")
 
-library(dplyr)
 library(survey)
 library(foreign)
 library(tidyverse)
